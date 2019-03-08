@@ -1,0 +1,4 @@
+body: //div[@id="comic"]
+title: //div[@id="ctitle"]
+
+test_url: https://xkcd.com/2115/
